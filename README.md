@@ -18,8 +18,6 @@ Currently, I am improving my skills in both frontend and backend development and
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square\&logo=html5\&logoColor=white)
@@ -57,8 +55,6 @@ Currently, I am improving my skills in both frontend and backend development and
 * Mobile-friendly design
 
 ---
-
-## 🗣️ Languages
 
 ## 🗣️ Languages
 
