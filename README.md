@@ -72,8 +72,9 @@ A responsive website for a coffee shop.
 ## 🗣️ Languages
 
 ![German](https://img.shields.io/badge/German-B2-red?style=flat-square)
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
 
 ---
 
