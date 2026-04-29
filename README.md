@@ -39,7 +39,7 @@ Currently, I am improving my skills in both frontend and backend development and
 
 ## 💻 Featured Projects
 
-### 🐾 [Animal Adoption](https://github.com/alina-hryhorenko/animal-adoption)
+### 🐾 [Animal Adoption](https://github.com/YshTi/Group_Project_JS_Animal_Adoption)
 
 🌐 [Live Demo](https://yshti.github.io/Group_Project_JS_Animal_Adoption/)
 
@@ -54,7 +54,7 @@ A web application for animal adoption built as a team project.
 
 ---
 
-### ☕ [Coffee Shop](https://github.com/alina-hryhorenko/coffee-shop)
+### ☕ [Coffee Shop](https://github.com/komandor131/project_group4)
 
 🌐 [Live Demo](https://komandor131.github.io/project_group4/)
 
@@ -75,11 +75,9 @@ A responsive website for a coffee shop.
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-
 ---
 
 ## 📫 How to reach me
 
 [LinkedIn](https://linkedin.com/in/alina-hryhorenko-507928382)
 📧 [alina1998hryhorenko@gmail.com](mailto:alina1998hryhorenko@gmail.com)
-
