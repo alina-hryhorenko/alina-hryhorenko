@@ -35,32 +35,45 @@ Currently, I am improving my skills in both frontend and backend development and
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square\&logo=visualstudiocode)
 
-
 ---
 
 ## 💻 Featured Projects
 
-### 🔗 [Animal Adoption](https://github.com/alina-hryhorenko/animal-adoption)
+### 🐾 [Animal Adoption](https://github.com/alina-hryhorenko/animal-adoption)
 
-* Responsive UI
-* Interactive components
-* Team collaboration using Git
+🌐 [Live Demo](https://yshti.github.io/Group_Project_JS_Animal_Adoption/)
+
+A web application for animal adoption built as a team project.
+
+**Highlights:**
+
+* Built with HTML, CSS, and JavaScript
+* Responsive and user-friendly interface
+* Interactive UI components
+* Team collaboration using Git/GitHub
 
 ---
 
-### 🔗 [Coffee Shop](https://github.com/alina-hryhorenko/coffee-shop)
+### ☕ [Coffee Shop](https://github.com/alina-hryhorenko/coffee-shop)
+
+🌐 [Live Demo](https://komandor131.github.io/project_group4/)
+
+A responsive website for a coffee shop.
+
+**Highlights:**
 
 * Clean and modern layout
-* Semantic HTML and CSS
-* Mobile-friendly design
+* Responsive and adaptive design
+* Semantic HTML and reusable CSS
+* Focus on maintainable and readable code
 
 ---
 
 ## 🗣️ Languages
 
-🇩🇪 German — B2  
-🇬🇧 English — B1  
-🇺🇦 Ukrainian — Native  
+![German](https://img.shields.io/badge/German-B2-red?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
 
@@ -68,3 +81,4 @@ Currently, I am improving my skills in both frontend and backend development and
 
 [LinkedIn](https://linkedin.com/in/alina-hryhorenko-507928382)
 📧 [alina1998hryhorenko@gmail.com](mailto:alina1998hryhorenko@gmail.com)
+
