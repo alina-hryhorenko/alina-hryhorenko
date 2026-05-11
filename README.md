@@ -69,7 +69,7 @@ A responsive website for a coffee shop.
 
 ---
 
-## 🌐 WebStudio
+## 🌐 [WebStudio](https://github.com/alina-hryhorenko/webstudio)
 
 🔗 [Live Demo](https://alina-hryhorenko.github.io/webstudio/)
 
