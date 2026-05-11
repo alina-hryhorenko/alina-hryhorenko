@@ -69,6 +69,18 @@ A responsive website for a coffee shop.
 
 ---
 
+## 🌐 WebStudio
+
+🔗 [Live Demo](https://alina-hryhorenko.github.io/webstudio/)
+
+A responsive website project built during frontend training.
+
+### Highlights:
+- Semantic HTML5 structure
+- Responsive layouts using Flexbox and CSS Grid
+- Clean and modern UI
+- Adaptive design for different screen sizes
+
 ## 🗣️ Languages
 
 ![German](https://img.shields.io/badge/German-B2-red?style=flat-square)
